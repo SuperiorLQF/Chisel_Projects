@@ -1,0 +1,6 @@
+alias ugad='git add'
+alias ugst='git status'
+alias ugbr='git branch'
+alias ugcm='git commit'
+alias ugpr='git pull'
+alias ugps='git push'
