@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/timer/src/test/scala/timerTest.scala:9:17: value load is not a member of timer[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.load.poke(1.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/timer/src/test/scala/timerTest.scala:11:17: value load is not a member of timer[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.load.poke(0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
