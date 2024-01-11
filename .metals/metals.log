@@ -1,0 +1,377 @@
+2024.01.11 16:47:12 INFO  Started: Metals version 1.2.0 in folders '/home/teemo/Chisel_Projects' for client Visual Studio Code 1.85.1.[0m
+2024.01.11 16:47:13 WARN  Build server is not auto-connectable.[0m
+2024.01.11 16:47:13 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/fifo_buffer.scala[0m
+2024.01.11 16:47:19 INFO  no build target found for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/fifo_buffer.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.11 16:47:23 INFO  time: code lens generation in 8.4s[0m
+2024.01.11 16:48:17 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 16:48:17 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 16:48:18 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:00:27 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:33 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:34 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:37 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:47 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:02:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 5:06:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_17-06-00-125.md
+2024.01.11 17:06:18 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:18 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:45 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:45 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:06:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:07:01 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:07:01 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:20:00 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:20:00 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:27:51 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:27:51 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:27:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:41:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 5:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1771
+2024.01.11 17:44:14 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:44:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:44:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 5:46:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_17-46-15-764.md
+2024.01.11 17:48:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:48:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:52:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:54:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:54:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 5:55:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3384
+2024.01.11 17:55:41 ERROR Failed to tokenize input for semantic tokens for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala
+scala.meta.tokenizers.TokenizeException: <input>:15: error: illegal character '\u3001'
+    val bitCntReg = RegInit(0.U(4.W))、、
+                                     ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:469)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:474)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.01.11 17:55:49 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:55:49 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:56:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:56:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:56:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:56:28 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:58:19 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:58:19 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:58:23 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:58:23 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:58:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:59:37 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 17:59:47 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:03:51 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:04:19 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:04:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:06:13 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:06:13 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:06:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:07:09 WARN  Using indexes to guess the definition of valid[0m
+2024.01.11 18:07:09 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:07:09 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 6:07:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_18-07-12-512.md
+Jan 11, 2024 6:07:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_18-07-17-167.md
+2024.01.11 18:08:53 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:09:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:09:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:39:02 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 6:39:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_18-39-36-026.md
+2024.01.11 18:42:01 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:42:34 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 6:50:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_18-50-35-798.md
+2024.01.11 18:51:20 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:52:04 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:53:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 18:53:39 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:14:55 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:15:10 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:16:23 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:16:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:17:43 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+Jan 11, 2024 7:18:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_19-18-02-044.md
+2024.01.11 19:21:45 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:24:50 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:25:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:35:23 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:36:03 WARN  Using indexes to guess the definition of CLK_CNT[0m
+2024.01.11 19:36:03 WARN  Using indexes to guess the definition of CLK_CNT[0m
+2024.01.11 19:36:05 WARN  Using indexes to guess the definition of data[0m
+2024.01.11 19:36:10 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:36:44 WARN  Using indexes to guess the definition of stateReg[0m
+Jan 11, 2024 7:37:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/teemo/Chisel_Projects/.metals/.reports/metals-full/2024-01-11/r_compiler-error_19-37-19-655.md
+2024.01.11 19:37:31 ERROR Failed to tokenize input for semantic tokens for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala
+scala.meta.tokenizers.TokenizeException: <input>:60: error: Invalid literal number
+        shiftReg := Cat(1shiftReg(10,0))
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.01.11 19:37:32 ERROR Failed to tokenize input for semantic tokens for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala
+scala.meta.tokenizers.TokenizeException: <input>:60: error: Invalid literal number
+        shiftReg := Cat(1shiftReg(10,0))
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.checkNoLetter(LegacyScanner.scala:820)
+	at scala.meta.internal.tokenizers.LegacyScanner.restOfUncertainToken$1(LegacyScanner.scala:864)
+	at scala.meta.internal.tokenizers.LegacyScanner.getNumber(LegacyScanner.scala:872)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:335)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.01.11 19:37:48 ERROR Failed to tokenize input for semantic tokens for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala
+scala.meta.tokenizers.TokenizeException: <input>:60: error: illegal character '\u3002'
+        shiftReg := Cat(1.U(1。)shiftReg(10,0))
+                             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:469)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:474)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.01.11 19:37:49 ERROR Failed to tokenize input for semantic tokens for /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala
+scala.meta.tokenizers.TokenizeException: <input>:60: error: illegal character '\u3002'
+        shiftReg := Cat(1.U(1。W)shiftReg(10,0))
+                             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:469)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:474)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
+2024.01.11 19:38:00 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:04 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:48 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:55 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:38:55 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:02 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:02 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:09 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:09 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:10 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:11 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:11 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:39:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:40:44 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/fifo_buffer.scala[0m
+2024.01.11 19:41:02 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:41:16 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:41:16 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:42:22 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/build.sbt[0m
+2024.01.11 19:42:22 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/build.sbt[0m
+2024.01.11 19:42:23 WARN  Could not find semantic tokens for: file:///home/teemo/Chisel_Projects/uart_transmitter/build.sbt[0m
+Jan 11, 2024 7:43:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8428
+Jan 11, 2024 7:43:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8430
+2024.01.11 19:45:25 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:45:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:45:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:45:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:47:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:48:01 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 19:48:01 WARN  Using indexes to guess the definition of CLK_CNT[0m
+2024.01.11 19:48:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/fifo_bufferTest.scala[0m
+2024.01.11 19:49:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitter.scala[0m
+2024.01.11 19:49:12 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:49:31 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:49:31 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:49:58 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:52:36 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:52:36 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:52:44 WARN  no build target for: /home/teemo/Chisel_Projects/fifo_buffer/src/test/scala/fifo_bufferTest.scala[0m
+2024.01.11 19:53:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:53:05 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:53:23 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:54:11 WARN  Using indexes to guess the definition of io[0m
+2024.01.11 19:54:11 WARN  Using indexes to guess the definition of FifoBufferRdyVld[0m
+Jan 11, 2024 7:56:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9605
+2024.01.11 19:56:30 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:56:30 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:56:31 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:56:31 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:57:58 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:57:58 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:57:58 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:57:58 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:11 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:11 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:11 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:21 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:58:27 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:09 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:10 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:44 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:44 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:44 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 19:59:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:00:16 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:00:16 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:00:16 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:01:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:03:37 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+Jan 11, 2024 8:05:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10312
+2024.01.11 20:05:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:05:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:05:46 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:05:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:05:52 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:05:53 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:07:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:07:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:07:35 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:08:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:08:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:08:24 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:10:25 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:10:25 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:10:25 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:10:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:10:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:10:29 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:39 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:12:38 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m
+2024.01.11 20:13:39 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+Jan 11, 2024 8:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10627
+Jan 11, 2024 8:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10631
+Jan 11, 2024 8:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10632
+Jan 11, 2024 8:15:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10633
+2024.01.11 20:17:37 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/test/scala/uart_transmitterTest.scala[0m
+2024.01.11 20:26:55 WARN  no build target for: /home/teemo/Chisel_Projects/uart_transmitter/src/main/scala/uart_transmitter.scala[0m

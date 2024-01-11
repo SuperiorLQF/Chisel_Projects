@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/uart_transmitter_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/FifoBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/FifoBufferRdyVld$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/Tx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReaderIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/ReaderIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/FifoBufferRdyVld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/WriterIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/Tx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_transmitter/target/scala-2.12/classes/FifoBuffer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
