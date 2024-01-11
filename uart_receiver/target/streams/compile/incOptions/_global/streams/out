@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/teemo/Chisel_Projects/uart_receiver/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReaderIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReaderIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBufferRdyVld$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WriterIO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FifoBuffer$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/teemo/Chisel_Projects/uart_receiver/target/scala-2.12/classes.bak[0m

@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/uart_txrx_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/Rx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/Tx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/Tx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Rx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/Rx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TxRx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/TxRx$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/Channel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TxRx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/TxRx.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TxRx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/TxRx$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TxRx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/uart_txrx/target/scala-2.12/classes/TxRx$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

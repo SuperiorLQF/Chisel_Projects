@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:6:19: value txchannel is not a member of chisel3.Bundle{val txd: chisel3.UInt; val channel: Channel}[0m
+[0m[[0m[31merror[0m] [0m[0m        if(dut.io.txchannel.ready.peek().toString()==true.B.toString()){[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:7:20: value txchannel is not a member of chisel3.Bundle{val txd: chisel3.UInt; val channel: Channel}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.io.txchannel.data.poke(data)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:8:20: value txchannel is not a member of chisel3.Bundle{val txd: chisel3.UInt; val channel: Channel}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.io.txchannel.valid.poke(true.B)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:10:20: value txchannel is not a member of chisel3.Bundle{val txd: chisel3.UInt; val channel: Channel}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.io.txchannel.valid.poke(false.B)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:19:17: value rxchannel is not a member of TxRx[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.rxchannel.ready.poke(true.B)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/uart_txrx/src/test/scala/uart_txrxTest.scala:20:23: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : TxRx[0m
+[0m[[0m[31merror[0m] [0m[0m required: Tx[0m
+[0m[[0m[31merror[0m] [0m[0m            SendaByte(dut,"b1010_1010".U)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
