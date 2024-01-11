@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/test/scala/fifo_bufferTest.scala:6:13: only traits and abstract classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m        var data_o:Int[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

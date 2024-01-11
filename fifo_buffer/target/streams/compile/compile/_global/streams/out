@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:50:5: package scala.io is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m    io=IO(new Bundle{[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:56:45: object WriterInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    fifoBuffer.io.WriterInterface.din := io.WriterInterface.bits[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:57:8: object ReaderInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    io.ReaderInterface.bits := fifoBuffer.io.ReaderInterface.dout[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:59:8: object WriterInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    io.WriterInterface.ready := !fifoBuffer.io.WriterInterface.full[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:60:8: object ReaderInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    io.ReaderInterface.valid := !fifoBuffer.io.ReaderInterface.empty[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:62:48: object WriterInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    fifoBuffer.io.WriterInterface.write :=  io.WriterInterface.valid & io.WriterInterface.ready[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:62:75: object WriterInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    fifoBuffer.io.WriterInterface.write :=  io.WriterInterface.valid & io.WriterInterface.ready[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:63:48: object ReaderInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    fifoBuffer.io.ReaderInterface.read  :=  io.ReaderInterface.valid & io.ReaderInterface.ready[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo_buffer/src/main/scala/fifo_buffer.scala:63:75: object ReaderInterface is not a member of package io[0m
+[0m[[0m[31merror[0m] [0m[0m    fifoBuffer.io.ReaderInterface.read  :=  io.ReaderInterface.valid & io.ReaderInterface.ready[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m
