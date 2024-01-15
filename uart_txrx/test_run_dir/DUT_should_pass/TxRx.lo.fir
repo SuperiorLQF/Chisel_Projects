@@ -147,16 +147,16 @@ circuit TxRx :
     input io_rxchannel_ready : UInt<1>
     output io_rxchannel_valid : UInt<1>
 
-    inst txPart of Tx @[uart_txrx.scala 14:24]
-    inst rxPart of Rx @[uart_txrx.scala 15:24]
-    io_txchannel_ready <= txPart.io_channel_ready @[uart_txrx.scala 17:23]
-    io_rxchannel_data <= rxPart.io_channel_data @[uart_txrx.scala 18:18]
-    io_rxchannel_valid <= rxPart.io_channel_valid @[uart_txrx.scala 18:18]
+    inst txPart of Tx @[uart_txrx.scala 17:24]
+    inst rxPart of Rx @[uart_txrx.scala 18:24]
+    io_txchannel_ready <= txPart.io_channel_ready @[uart_txrx.scala 20:23]
+    io_rxchannel_data <= rxPart.io_channel_data @[uart_txrx.scala 21:18]
+    io_rxchannel_valid <= rxPart.io_channel_valid @[uart_txrx.scala 21:18]
     txPart.clock <= clock
     txPart.reset <= reset
-    txPart.io_channel_data <= io_txchannel_data @[uart_txrx.scala 17:23]
-    txPart.io_channel_valid <= io_txchannel_valid @[uart_txrx.scala 17:23]
+    txPart.io_channel_data <= io_txchannel_data @[uart_txrx.scala 20:23]
+    txPart.io_channel_valid <= io_txchannel_valid @[uart_txrx.scala 20:23]
     rxPart.clock <= clock
     rxPart.reset <= reset
-    rxPart.io_rxd <= txPart.io_txd @[uart_txrx.scala 16:19]
-    rxPart.io_channel_ready <= io_rxchannel_ready @[uart_txrx.scala 18:18]
+    rxPart.io_rxd <= txPart.io_txd @[uart_txrx.scala 19:19]
+    rxPart.io_channel_ready <= io_rxchannel_ready @[uart_txrx.scala 21:18]

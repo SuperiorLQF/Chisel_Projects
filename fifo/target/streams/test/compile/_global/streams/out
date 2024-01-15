@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo/src/test/scala/fifoTest.scala:13:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m            checklist+=dataS//写入一个数，就向待检查列表中添加一个数，也是fifo[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

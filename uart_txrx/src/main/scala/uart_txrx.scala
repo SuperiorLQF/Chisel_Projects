@@ -5,7 +5,10 @@ class Channel extends Bundle{
     val ready = Output(Bool())
     val valid = Input(Bool())
 }
-class TxRx(frequency: Int, baudRate: Int) extends Module{
+abstract class TxRxA extends  Module{
+
+}
+class TxRx(frequency: Int, baudRate: Int) extends TxRxA{
     val io = IO(new Bundle{
         val txchannel = new Channel()
         val rxchannel = Flipped(new Channel())

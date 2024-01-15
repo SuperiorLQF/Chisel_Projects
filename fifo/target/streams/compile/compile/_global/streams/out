@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/fifo/src/main/scala/fifo.scala:59:5: overloaded method value apply with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (pable: chisel3.Printable)(implicit sourceInfo: chisel3.internal.sourceinfo.SourceInfo, implicit compileOptions: chisel3.CompileOptions)chisel3.printf.Printf <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (fmt: String,data: chisel3.Bits*)(implicit sourceInfo: chisel3.internal.sourceinfo.SourceInfo, implicit compileOptions: chisel3.CompileOptions)chisel3.printf.Printf[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (chisel3.UInt)[0m
+[0m[[0m[31merror[0m] [0m[0m    printf(wrptr)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
