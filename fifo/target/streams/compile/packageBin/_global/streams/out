@@ -1,25 +1,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /home/teemo/Chisel_Projects/fifo/target/scala-2.12/fifo_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Rx$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Rx$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FifoIO.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/FifoIO.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Tx$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Tx$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Tx.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Tx.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Rx.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Rx.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	syncFifo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/syncFifo.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Channel.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Channel.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fifo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/Fifo.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TxRx.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/TxRx.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TxRx$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/TxRx$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	syncFifo$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/fifo/target/scala-2.12/classes/syncFifo$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	syncFifo$delayedInit$body.class[0m

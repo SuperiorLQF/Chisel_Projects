@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/elb_pipe.scala:17:5: not found: value DecoupledIO_mid[0m
+[0m[[0m[31merror[0m] [0m[0m    DecoupledIO_mid = Vec(GroupNum+1,DecoupledIO(UInt(Width.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/elb_pipe.scala:19:52: not found: value DecoupledIO_mid[0m
+[0m[[0m[31merror[0m] [0m[0m        Module(new SkidBuffer(Width)).io.m_side <> DecoupledIO_mid(i)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/elb_pipe.scala:20:52: not found: value DecoupledIO_mid[0m
+[0m[[0m[31merror[0m] [0m[0m        Module(new SkidBuffer(Width)).io.s_side <> DecoupledIO_mid(i+1)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/elb_pipe.scala:22:5: not found: value DecoupledIO_mid[0m
+[0m[[0m[31merror[0m] [0m[0m    DecoupledIO_mid(0) <> io.m_side[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/elb_pipe.scala:23:5: not found: value DecoupledIO_mid[0m
+[0m[[0m[31merror[0m] [0m[0m    DecoupledIO_mid(GroupNum) <> io.s_side[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

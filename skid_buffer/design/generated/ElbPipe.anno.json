@@ -1,0 +1,34 @@
+[
+  {
+    "class":"firrtl.transforms.DedupedResult",
+    "original":"~ElbPipe|SkidBuffer",
+    "duplicate":"~ElbPipe|ElbPipe/SkidBufferTempt:SkidBuffer",
+    "index":0.0
+  },
+  {
+    "class":"firrtl.transforms.DedupedResult",
+    "original":"~ElbPipe|SkidBuffer_1",
+    "duplicate":"~ElbPipe|ElbPipe/SkidBufferTempt_1:SkidBuffer",
+    "index":0.25
+  },
+  {
+    "class":"firrtl.transforms.DedupedResult",
+    "original":"~ElbPipe|SkidBuffer_2",
+    "duplicate":"~ElbPipe|ElbPipe/SkidBufferTempt_2:SkidBuffer",
+    "index":0.5
+  },
+  {
+    "class":"firrtl.transforms.DedupedResult",
+    "original":"~ElbPipe|SkidBuffer_3",
+    "duplicate":"~ElbPipe|ElbPipe/SkidBufferTempt_3:SkidBuffer",
+    "index":0.75
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"generated"
+  }
+]

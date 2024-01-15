@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/design_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElbPipe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/ElbPipe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SkidBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/SkidBuffer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VldRdy$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/VldRdy$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElbPipe$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/ElbPipe$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElbPipe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/ElbPipe$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VldRdy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/skid_buffer/design/target/scala-2.12/classes/VldRdy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

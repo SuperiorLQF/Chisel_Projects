@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mchisel3.internal.ChiselException: Error: attempted to instantiate a Module without wrapping it in Module().[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at VldRdy.<init>(skid_buffer.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m	at SkidBuffer.<init>(skid_buffer.scala:16)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ElbPipe.$anonfun$new$2(elb_pipe.scala:19)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.internal.plugin.package$.autoNameRecursively(package.scala:33)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ElbPipe.$anonfun$new$1(elb_pipe.scala:19)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:158)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ElbPipe.<init>(elb_pipe.scala:18)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ElbPipe$.$anonfun$new$7(elb_pipe.scala:27)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... (Stack trace trimmed to user code only. Rerun with --full-stacktrace to see the full stack trace)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) chisel3.internal.ChiselException: Error: attempted to instantiate a Module without wrapping it in Module().[0m
