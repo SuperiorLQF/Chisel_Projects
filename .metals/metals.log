@@ -2870,3 +2870,9 @@ scala.meta.tokenizers.TokenizeException: <input>:43: error: illegal character '\
 2024.01.15 19:08:22 WARN  no build target for: /home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/skid_buffer.scala[0m
 2024.01.15 19:08:22 WARN  no build target for: /home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/skid_buffer.scala[0m
 2024.01.15 19:08:22 WARN  no build target for: /home/teemo/Chisel_Projects/skid_buffer/design/src/main/scala/skid_buffer.scala[0m
+Jan 15, 2024 9:22:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15161
+Jan 15, 2024 9:22:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15162
+2024.01.15 21:24:24 INFO  Shutting down server[0m
+2024.01.15 21:24:24 INFO  shutting down Metals[0m
