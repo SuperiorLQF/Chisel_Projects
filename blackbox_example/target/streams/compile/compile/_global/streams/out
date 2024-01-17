@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/main/scala/test.scala:35:8: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m  io.a = adder.io.a[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/main/scala/test.scala:36:8: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m  io.b = adder.io.b[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/main/scala/test.scala:37:10: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m  io.sum = adder.io.sum[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

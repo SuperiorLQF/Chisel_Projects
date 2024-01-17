@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/blackbox_example_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderWrapper$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/AdderWrapper$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderWrapper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/AdderWrapper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderWrapper$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/AdderWrapper$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/AdderWrapper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InlineBlackBoxAdder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/InlineBlackBoxAdder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InlineBlackBoxAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/teemo/Chisel_Projects/blackbox_example/target/scala-2.12/classes/InlineBlackBoxAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

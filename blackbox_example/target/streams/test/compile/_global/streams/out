@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/test/scala/tester.scala:8:30: not found: type TesterConfig[0m
+[0m[[0m[31merror[0m] [0m[0m   override def testerConfig:TesterConfig ={[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/test/scala/tester.scala:9:9: not found: type TesterConfig[0m
+[0m[[0m[31merror[0m] [0m[0m    new TesterConfig(BackendName.verilator)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/teemo/Chisel_Projects/blackbox_example/src/test/scala/tester.scala:9:22: not found: value BackendName[0m
+[0m[[0m[31merror[0m] [0m[0m    new TesterConfig(BackendName.verilator)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

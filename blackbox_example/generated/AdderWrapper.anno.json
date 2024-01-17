@@ -1,0 +1,16 @@
+[
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxInlineAnno",
+    "target":"AdderWrapper.InlineBlackBoxAdder",
+    "name":"BlackBoxAdder.v",
+    "text":"\nmodule BlackBoxAdder(\n    input [31:0] a,\n    input [31:0] b,\n    output [31:0] sum\n);\n\nassign sum = a + b;\n\nendmodule\n    "
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"generated"
+  }
+]
